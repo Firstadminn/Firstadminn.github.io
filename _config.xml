@@ -1,0 +1,7 @@
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+deploy:
+	type:git
+	repo:
+		github: https://github/Firstadmin/Firstadmin.github.io.git
+	branch:master
